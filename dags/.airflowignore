@@ -1,0 +1,4 @@
+# list all dags that you do not want to deploy here
+
+
+__pycache__
